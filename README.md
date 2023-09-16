@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Machine learning**
 
-- 👨‍💻 My website [bipulrahi.co](bipulrahi.co)
+- 👨‍💻 My website [Connect 🤝](https://bipulrahi.co)
 
 - 💬 Ask me about **backend and new technologies**
 
